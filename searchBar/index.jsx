@@ -1,3 +1,10 @@
+/**
+ * @description Item-list component
+ * @author      Jiners Enoheart
+ * @published   Jul 07, 2023
+ * @modified    Jul 16, 2023
+ */
+
 import React, { useRef } from "react"
 import "./style.css"
 

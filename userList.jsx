@@ -1,5 +1,5 @@
 /**
- * @author      Gunderson Paul
+ * @author      Jiners Enoheart & Gunderson Paul
  * @published   July 21 2023 
  * @description UserList Component for Chat page
  */

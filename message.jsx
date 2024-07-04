@@ -1,6 +1,6 @@
 /**
  * @description: Message component that users send or receive
- * @author	 		 Gunderson Paul
+ * @author	 	 Jiners Enoheart & Gunderson Paul
  * @published    July 31 2023
  */
 

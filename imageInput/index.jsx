@@ -2,7 +2,7 @@
  * @description Image Input Component
  * @published Jan 31, 2023
  * @modified Jun 16, 2023
- * @author Davies Martines & Jiners Enoheart
+ * @author Jiners Enoheart & Davies Martines
  */
 
 import React, { useRef } from "react"
